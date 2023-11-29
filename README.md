@@ -1,6 +1,7 @@
 # UserFinder
 # FRONTEND
-Frontend - React
+Frontend - React.js
 
 Install the dependencies using npm install.
+
 Run the server using npm start.
